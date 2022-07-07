@@ -1,4 +1,5 @@
 USE SCHEMA Company;
+DROP TABLE Company.Employee_Test;
 CREATE TABLE Company.Employee_Test
 (
    EMPID VARCHAR
