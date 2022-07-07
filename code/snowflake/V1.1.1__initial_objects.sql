@@ -1,4 +1,4 @@
-CREATE SCHEMA Company;
+USE SCHEMA Company;
 CREATE TABLE Employee
 (
    FIRST_NAME VARCHAR
